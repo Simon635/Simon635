@@ -1,16 +1,42 @@
-## Hi there 👋
+# Привет! 👋 Я Семён
 
-<!--
-**Simon635/Simon635** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Web Developer](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/04/web-developer-portfolio.png)
 
-Here are some ideas to get you started:
+Я фронтенд-разработчик, создаю сайты по Figma с адаптивной версткой.  
+Владею **HTML, CSS, JavaScript и БЭМ**, умею работать с Git и соблюдаю сроки.  
+В свободное время занимаюсь фотографией, развиваю soft skills и регулярно хожу в спортзал 🏋️‍♂️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Навыки
+
+**Языки и технологии:** HTML, CSS, JavaScript, БЭМ  
+**Фреймворки и инструменты:** Git, GitHub, Figma, адаптивная верстка  
+**Дополнительно:** фотография, спорт, личностное развитие  
+
+---
+
+## 📂 Проекты
+
+| Проект | Описание | Ссылка |
+|--------|----------|-------|
+| Sedona | Сайт для аренды гостиниц | [Посмотреть](https://simon635.github.io/2126903-sedona-38/) |
+| Device | Магазин цифровой техники | [Посмотреть](https://simon635.github.io/2126903-device-34/) |
+| Glacy | Магазин мороженого | [Посмотреть](https://simon635.github.io/2126903-gllacy-34/) |
+| Cat Energy | Магазин кошачьего корма | [Посмотреть](https://simon635.github.io/cat-energy/) |
+| Drink2Go | Магазин кофе | [Посмотреть](https://simon635.github.io/Drink2Go/) |
+| Accelerator Fitness | Сайт фитнес-центра | [Посмотреть](https://simon635.github.io/accelerator-project-1/) |
+
+---
+
+## 📫 Контакты
+
+- ✉️ Почта: [semyon.dudin@inbox.ru](mailto:semyon.dudin@inbox.ru)  
+- 💬 Telegram: [@Simon_SnowLay](https://t.me/Simon_SnowLay)  
+- 🔗 GitHub: [Simon635](https://github.com/Simon635)  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Simon635&show_icons=true&theme=radical)
