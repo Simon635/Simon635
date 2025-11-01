@@ -39,6 +39,4 @@
 
 ## 📊 GitHub Stats
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Simon635&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon635&langs_count=3&theme=radical) |
-|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=Simon635&theme=radical&hide_border=true) | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Simon635&theme=radical) |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon635&langs_count=3&theme=radical)
