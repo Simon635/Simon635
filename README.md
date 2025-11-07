@@ -26,7 +26,7 @@
 | Cat Energy | Магазин кошачьего корма | [Посмотреть](https://simon635.github.io/cat-energy/) |
 | Drink2Go | Магазин кофе | [Посмотреть](https://simon635.github.io/Drink2Go/) |
 | Accelerator Fitness | Сайт фитнес-центра | [Посмотреть](https://simon635.github.io/accelerator-project-1/) |
-| Pottery-workshop | Обучение гончарству | [Посмотреть]([https://simon635.github.io/accelerator-project-1/](https://simon635.github.io/Pottery-workshop/)) |
+| Pottery-workshop | Обучение гончарству | [Посмотреть](https://simon635.github.io/Pottery-workshop/) |
 
 ---
 
